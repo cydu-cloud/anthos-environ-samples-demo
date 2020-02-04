@@ -13,4 +13,4 @@ spec:
     message: "All images must pulled from gcr.io."
     repos:
       - "gcr.io"
-  enforcementAction: dryrun
+  enforcementAction: deny
