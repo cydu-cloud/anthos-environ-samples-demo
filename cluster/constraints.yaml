@@ -12,6 +12,6 @@ spec:
   parameters:
     message: "All images must pulled from gcr.io."
     repos:
-      - "gcr.io"
       - "nginx"
+      - "gcr.io"
   enforcementAction: deny
