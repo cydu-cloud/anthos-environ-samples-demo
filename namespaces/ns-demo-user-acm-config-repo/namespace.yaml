@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: anthos-environ-samples-demo
+  name: ns-demo-user-acm-config-repo
